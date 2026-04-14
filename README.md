@@ -30,3 +30,5 @@ You've done all the required steps, but if you'd like to make the game your own,
     Add a shield power-up
     Add a speed power-up
     Add bombs that can be dropped
+
+    Asteroids split when they collide or grow larger! Maybe even cause an explosion?
